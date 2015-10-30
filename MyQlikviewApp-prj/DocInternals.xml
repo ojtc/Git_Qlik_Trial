@@ -4,11 +4,15 @@
     <bool>false</bool>
     <bool>false</bool>
     <bool>false</bool>
+    <bool>false</bool>
   </AlwaysLoose>
   <FieldSrcTables>
     <String>6</String>
     <String>1</String>
     <String>FRUITS</String>
+    <String>7</String>
+    <String>1</String>
+    <String>VEGETABLES</String>
   </FieldSrcTables>
   <TableViewData></TableViewData>
   <Bookmarks></Bookmarks>
@@ -52,6 +56,7 @@
           <String>$Table</String>
           <String>$Info</String>
           <String>Fruits</String>
+          <String>Vegetables</String>
         </FieldNames>
       </FieldTagData>
       <FieldTagData>
@@ -61,6 +66,7 @@
           <String>$Table</String>
           <String>$Info</String>
           <String>Fruits</String>
+          <String>Vegetables</String>
         </FieldNames>
       </FieldTagData>
       <FieldTagData>

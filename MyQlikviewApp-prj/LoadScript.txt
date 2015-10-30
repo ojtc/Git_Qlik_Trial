@@ -20,3 +20,10 @@ LOAD * INLINE [
     Pear
 ];
 
+
+VEGETABLES:
+LOAD * INLINE [
+    Vegetables
+    Potatoe 
+    Pumpkin
+];
