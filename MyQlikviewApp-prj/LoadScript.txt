@@ -17,5 +17,6 @@ LOAD * INLINE [
     Apple 
     Strawberry
     Cherry
+    Pear
 ];
 
