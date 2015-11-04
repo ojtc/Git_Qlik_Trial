@@ -18,5 +18,6 @@ LOAD * INLINE [
     Strawberry
     Cherry
     Pear
+    Lemon
 ];
 
